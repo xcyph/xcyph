@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.sarahingrid.nl/" target="_blank" rel="norefer
 I'm a IT student 💻
 </h2> 
 
-I love to work with computers. 
+I love to work with computers. <br>
 ![](https://komarev.com/ghpvc/?username=xcyph&color=blue)
 
 ### 🤝 Connect with me:
