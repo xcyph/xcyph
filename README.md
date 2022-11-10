@@ -11,6 +11,7 @@ I'm a IT student 💻
 </h2> 
 
 I love to work with computers. 
+![](https://komarev.com/ghpvc/?username=xcyph&color=blue)
 
 ### 🤝 Connect with me:
 
