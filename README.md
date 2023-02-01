@@ -27,6 +27,7 @@ I love to work with computers. <br>
 ## 🌱 I'm currently learning
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Python][(https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=black)]
 
 ## 💼 Technical Skills
 
