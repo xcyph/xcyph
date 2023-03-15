@@ -22,7 +22,7 @@ I love to work with computers. <br>
 
 ## 🔭 I'm currently working on
 
-- SimplyCard (Schoolproject)
+- The Office (Schoolproject)
 
 ## 🌱 I'm currently learning
 
