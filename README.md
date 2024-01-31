@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ZUMO32U4](schoolproject)
 
-- 🌱 I’m currently learning **C++ and industrial automatization**
+- 🌱 I’m currently learning **C and industrial automatization**
 
 - 💬 Ask me about **PHP**
 
