@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcyph&label=Profile%20views&color=0e75b6&style=flat" alt="xcyph" /> </p>
 
-- 🔭 I’m currently working on [gebouw automatisering](schoolproject)
+- 🔭 I’m currently working on [revalidatie automatisering](schoolproject)
 
 - 🌱 I’m currently learning **C 
 
