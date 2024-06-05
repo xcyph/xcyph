@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [revalidatie automatisering](schoolproject)
 
-- 🌱 I’m currently learning **C 
+- 🌱 I’m currently learning **C**
 
 - 💬 Ask me about **PHP**
 
